@@ -1,20 +1,20 @@
-.form_control{
+.form_cost{
     display: flex;
     flex-direction: column;
     margin-bottom: 1em;
 }
 
-.form_control label{
+.form_cost label{
     margin-bottom: .6em;
     font-weight: bold;
 }
 
-.form_control input{
+.form_cost input{
     padding: .7em;
     border: solid 1px #ebebeb;
     border-radius: 5px;
 }
 
-.form_control input::placeholder{
+.form_cost input::placeholder{
     color: #777;
 }

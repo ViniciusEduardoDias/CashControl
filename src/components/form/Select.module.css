@@ -1,15 +1,15 @@
-.form_control{
+.form_cost{
     display: flex;
     flex-direction: column;
     margin-bottom: 1em;
 }
 
-.form_control label{
+.form_cost label{
     margin-bottom: .6em;
     font-weight: bold;
 }
 
-.form_control select{
+.form_cost select{
     padding: .7em;
     border: solid 1px #ebebeb;
     border-radius: 5px;
